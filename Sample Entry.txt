@@ -1,0 +1,23 @@
+{
+  "name": "Agent Phantom",
+  "status": "Alive",
+  "species": "Human",
+  "type": "Infiltrator",
+  "gender": "Female",
+  "origin": {
+    "name": "Base Echo",
+    "url": "https://spyverse.api/location/echo"
+  },
+  "location": {
+    "name": "Sector 9",
+    "url": "https://spyverse.api/location/sector9"
+  },
+  "approval_status": "NOT_APPROVED",
+  "image": "https://spyverse.api/characters/avatar/101.jpeg",
+  "episode": [
+    "https://spyverse.api/mission/42",
+    "https://spyverse.api/mission/57"
+  ],
+  "url": "https://spyverse.api/character/101",
+  "created": "2025-06-19T10:30:00Z"
+}
